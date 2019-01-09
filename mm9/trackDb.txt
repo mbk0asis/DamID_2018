@@ -15,7 +15,7 @@ color 0,0,255
 
 
 track D1D
-bigDataUrl https://raw.githubusercontent.com/mbk0asis/DamID_2018/master/mm9/Bla.SE.sorted.bam.bin300.CPM.bw
+bigDataUrl https://raw.githubusercontent.com/mbk0asis/DamID_2018/master/mm9/D1D.SE.sorted.bam.bin300.CPM.bw
 shortLabel D1D
 longLabel Dnmt1-Dam
 type bigWig
