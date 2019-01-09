@@ -3,7 +3,7 @@ bigDataUrl https://raw.githubusercontent.com/mbk0asis/DamID_2018/master/mm9/Bla.
 shortLabel Bla_DpnII.CPM.bin300bp
 longLabel Blastocyst_gDNA_DpnII
 type bigWig
-color 80,80,80
+color 0,120,0
 
 
 track Dam.CPM.bin300bp
