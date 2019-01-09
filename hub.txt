@@ -3,4 +3,4 @@ shortLabel DamID_2018
 longLabel DamID_2018
 genomesFile https://raw.githubusercontent.com/mbk0asis/DamID_2018/master/genomes.txt
 email mbk0asis@gmail.com
-descriptionUrl https://raw.githubusercontent.com/mbk0asis/DamID_2018/maste
+descriptionUrl https://raw.githubusercontent.com/mbk0asis/DamID_2018/master
