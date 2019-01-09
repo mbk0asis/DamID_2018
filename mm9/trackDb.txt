@@ -11,7 +11,7 @@ bigDataUrl https://raw.githubusercontent.com/mbk0asis/DamID_2018/master/mm9/Dam.
 shortLabel Dam
 longLabel Dam_only
 type bigWig
-color 50,50,50
+color 0,0,200
 
 
 track D1D
