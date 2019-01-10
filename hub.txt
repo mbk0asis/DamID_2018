@@ -1,6 +1,6 @@
 hub my_UCSCHub_DamID
 shortLabel DamID_2018
 longLabel DamID_2018
-genomesFile https://raw.githubusercontent.com/mbk0asis/DamID_2018/master/track_hub/genomes.txt
+genomesFile https://raw.githubusercontent.com/mbk0asis/DamID_2018/master/genome.txt
 email mbk0asis@gmail.com
-descriptionUrl https://raw.githubusercontent.com/mbk0asis/DamID_2018/master/track_hub/
+descriptionUrl https://raw.githubusercontent.com/mbk0asis/DamID_2018/master
